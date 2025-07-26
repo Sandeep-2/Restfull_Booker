@@ -113,10 +113,6 @@ src/test/resources/BookingData.xlsx
 
 ---
 
-## 📊 Sample Report Screenshots
-
-> **(You can upload screenshots of your Allure or Excel reports here once available)**
-
 ---
 
 ## 🤝 Contribution
@@ -124,10 +120,6 @@ src/test/resources/BookingData.xlsx
 Pull requests and feedback are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-## 🔒 License
-
-This project is licensed under the [MIT License](LICENSE) - feel free to use and modify.
 
 ---
 
@@ -138,14 +130,4 @@ This project is licensed under the [MIT License](LICENSE) - feel free to use and
 
 ---
 
-```
-
----
-
-Would you like me to:
-- Add badges (e.g. build passing, license)?
-- Format this as a downloadable `README.md` file?
-- Customize the author/link section with your GitHub username?
-
-Let me know!
 ```
