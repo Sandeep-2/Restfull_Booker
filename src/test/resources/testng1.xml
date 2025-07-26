@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API_Automation_Suite" parallel="false" >
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+    <test name="Restful_Booker_Tests">
+        <classes>
+            <class name="Restfull_Booker.E2E"/>
+        </classes>
+    </test>
+</suite>
