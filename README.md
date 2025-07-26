@@ -133,8 +133,8 @@ This project is licensed under the [MIT License](LICENSE) - feel free to use and
 
 ## 👤 Author
 
-**Your Name**
-[GitHub](https://github.com/yourusername)
+**Sandeep Surepalli**
+[GitHub](https://github.com/Sandeep-2)
 
 ---
 
